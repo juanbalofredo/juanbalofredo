@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **juanbautistalofredo@gmail.com**
 
-- 📄 Know about my experiences [I finished Henry Bootcamp for full-stack developer, and continue to study fo Data science](I finished Henry Bootcamp for full-stack developer, and continue to study fo Data science)
+- 📄 Know about my experiences I finished Henry Bootcamp for full-stack developer, and continue to study fo Data science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
