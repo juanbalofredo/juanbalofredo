@@ -1,5 +1,5 @@
-Juan Bautista Lofredo, born in 2002, Buenos Aires, Argentin
-Front end developer
+Juan Bautista Lofredo, born in 2002, Buenos Aires, Argentina
+Mobile developer
 
 Mail:**juanbautistalofredo@gmail.com**
 <br/>
